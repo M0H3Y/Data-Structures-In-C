@@ -1,5 +1,5 @@
 typedef char StackEntry;  // the default type of StackEntry
-#define MAXSTACK 100      // the default number of elements in the stack
+#define MAXSTACK 100      // the default maximum number of elements in the stack
 
 typedef struct stack{
   int top;
